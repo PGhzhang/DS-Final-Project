@@ -1,4 +1,6 @@
-# DS-Final-Project
+# CS5304 Final Project
+
+#### Author: Hanyu zhang           Yiyuan Feng
 This is the final project for cs5304. In this project, we examine some different ways in building recommendation systems. 
 
 - The first is to use matrix factorization based on user listening frequency, 
