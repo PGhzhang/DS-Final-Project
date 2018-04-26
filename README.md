@@ -1,6 +1,8 @@
 # CS5304 Final Project
 
 #### Author: Hanyu zhang &nbsp;  Yiyuan Feng
+
+### Summary
 This is the final project for cs5304. In this project, we use the data from last.fm .We examine 3 different ways in building recommendation systems. 
 
 - The first is to use matrix factorization based on user listening frequency, 
@@ -10,7 +12,7 @@ This is the final project for cs5304. In this project, we use the data from last
 We find that social network have positive affect to our prediction in some degree. 
 In the future, we will present a recommendation algorithm that adapts social influence into implicit feedback.
 
-Data discription:
+### Data discription
 
 This dataset contains social networking, tagging, and music artist listening information from a set of 2K users from Last.fm online music system. http://www.last.fm
    	    
