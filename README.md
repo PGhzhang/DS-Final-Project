@@ -1,6 +1,8 @@
 # CS5304 Final Project
 
-#### Author: Hanyu zhang &nbsp;  Yiyuan Feng
+### Authors 
+ - Hanyu zhang 
+ - Yiyuan Feng
 
 ### Summary
 This is the final project for cs5304. In this project, we use the data from last.fm .We examine 3 different ways in building recommendation systems. 
